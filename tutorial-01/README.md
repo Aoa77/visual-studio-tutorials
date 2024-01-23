@@ -21,7 +21,11 @@ Use Visual Studio 2022 to buid a web application with React and .NET Core.
 `Azure Blob Storage`
 <hr/>
 
-`STEP 1`
+## `STEP 1`
+Assuming you have Visual Studio 2022 installed, open the Visual Studio Installer application, click the "Modify" button, and verify or install the following three components under the "Web & Cloud" workload category. 
+- ASP.NET and web development
+- Azure development
+- Node.js development
 
 https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/dc4d909f-c9d9-4322-86a3-be3071f31143
 
