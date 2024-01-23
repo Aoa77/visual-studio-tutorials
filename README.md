@@ -4,12 +4,23 @@ A collection of step-by-step tutorials for building full-stack, microservices-or
 ### <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Visual-Studio.png" />&nbsp;&nbsp;<a href="/">Tutorial #1</a>
 Use Visual Studio 2022 to buid a web application with React and .NET Core.
 
-<b>Frontend:</b>&nbsp;&nbsp;
-<img width="12" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/React.png" />
+- <i>Frontend:</i>
+&nbsp;
+<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/React.png" />
 `React`
-<img width="12" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" />
+&nbsp;
+<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" />
 `Typescript`
-<img width="12" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" />
+&nbsp;
+<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" />
 `Vite`
+
+- <i>Backend:</i>
+&nbsp;
+<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" />
+`.NET Core`
+&nbsp;
+<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Azure.png" />
+`Azure Blob Storage`
 
 
