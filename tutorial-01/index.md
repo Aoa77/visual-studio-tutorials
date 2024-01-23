@@ -22,3 +22,6 @@ Use Visual Studio 2022 to buid a web application with React and .NET Core.
 <hr/>
 
 `STEP 1`
+
+https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/dc4d909f-c9d9-4322-86a3-be3071f31143
+
