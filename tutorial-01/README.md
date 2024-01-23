@@ -27,8 +27,16 @@ Assuming you have Visual Studio 2022 installed, open the Visual Studio Installer
 - Azure development
 - Node.js development
 
-
 https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/ec21d4e1-adac-439c-a852-c7b486b32773
+
+<br/><br/>
+## `STEP 02`
+Launch Visual Studio 2022, click "Create New Project", then choose the project template "React and ASP.NET Core" with Typescript. 
+
+https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/1de279ac-f49d-4a93-8dfd-c5ed20d29b78
+
+
+
 
 
 
