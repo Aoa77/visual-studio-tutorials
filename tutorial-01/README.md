@@ -39,7 +39,11 @@ https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/1de279ac-f49d-4a
 
 <br/><br/>
 ## `STEP 03`
-Once Visual Studio finishes creating the solution, verify that you have a new <i>Tutorial_01.sln</i> file with two projects listed in the Solution Explorer: 
-- 
+Once Visual Studio finishes creating the solution, verify that you have a new <b>`Tutorial_01.sln`</b> file with two projects listed in the Solution Explorer: 
+- <b>`tutorial_01.client`</b> - this is the frontend web application built with React, Typescript, and Vite.
+- <b>`Tutorial_01.server`</b> - this is the backend REST API built with .NET Core and Swagger.
+
+https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/7b960572-de78-4670-b3f0-575fd61cd7f7
+
 
 
