@@ -37,6 +37,9 @@ https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/1de279ac-f49d-4a
 
 
 
-
+<br/><br/>
+## `STEP 03`
+Once Visual Studio finishes creating the solution, verify that you have a new <i>Tutorial_01.sln</i> file with two projects listed in the Solution Explorer: 
+- 
 
 
