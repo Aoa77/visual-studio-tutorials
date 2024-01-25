@@ -6,7 +6,7 @@ In this tutorial, we will use Visual Studio 2022 to scaffold a full-stack applic
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" title="TypeScript" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" title="Vite" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" title="ASP.NET Core" />&nbsp;
-<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Swagger.png" title="ASP.NET Core" />&nbsp;
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Swagger.png" title="Swagger" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Azure.png" title="Azure" />
 
 
