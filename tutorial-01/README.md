@@ -1,25 +1,19 @@
-# <img width="24" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Visual-Studio.png" />&nbsp;&nbsp;<a href="https://github.com/Aoa77/visual-studio-tutorials/blob/main/tutorial-01/index.md">`Tutorial 01`</a>
-Use Visual Studio 2022 to buid a web application with React and .NET Core.
+# <a href="https://github.com/Aoa77/visual-studio-tutorials/blob/main/tutorial-01/README.md">Build an app with React, TypeScript, .NET Core Web API, and Azure Blob Storage</a>
+In this tutorial, we will use Visual Studio 2022 to scaffold a full-stack application with a frontend React project and a backend ASP.NET Core project. We'll learn how to add new React UI components with TypeScript and NPM, and we'll add data persistance to the backend API using Azure Blob Storage. 
 
-<i>&nbsp;&nbsp;Frontend:</i>
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Visual-Studio.png" title="Visual Studio 2022" />
 &nbsp;
-<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/React.png" />
-`React`
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/React.png" title="React" />
 &nbsp;
-<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" />
-`Typescript`
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" title="TypeScript" />
 &nbsp;
-<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" />
-`Vite`
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" title="Vite" />
+&nbsp;
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" title="ASP.NET Core" />
+&nbsp;
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Azure.png" title="Azure" />
 
-<i>&nbsp;&nbsp;Backend:</i>
 &nbsp;
-<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" />
-`.NET Core`
-&nbsp;
-<img width="13" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Azure.png" />
-`Azure Blob Storage`
-<hr/>
 
 ## `STEP 01`
 Assuming you have Visual Studio 2022 installed, open the Visual Studio Installer application, click the "Modify" button, and verify or install the following three components under the "Web & Cloud" workload category. 
@@ -29,7 +23,9 @@ Assuming you have Visual Studio 2022 installed, open the Visual Studio Installer
 
 https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/ec21d4e1-adac-439c-a852-c7b486b32773
 
-<br/><br/>
+
+&nbsp;
+
 ## `STEP 02`
 Launch Visual Studio 2022, click "Create New Project", then choose the project template "React and ASP.NET Core" with Typescript. 
 
