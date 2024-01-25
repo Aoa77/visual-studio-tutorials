@@ -26,7 +26,7 @@ https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/ec21d4e1-adac-43
 ## `STEP 02`
 Launch Visual Studio 2022, click "Create New Project", then choose the project template "React and ASP.NET Core" with Typescript. 
 
-https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/1de279ac-f49d-4a93-8dfd-c5ed20d29b78
+https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/e24fad7c-1d21-46d6-9b9b-8bcb8158357f
 
 
 &nbsp;
