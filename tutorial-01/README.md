@@ -6,6 +6,7 @@ In this tutorial, we will use Visual Studio 2022 to scaffold a full-stack applic
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/TypeScript.png" title="TypeScript" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Vite.png" title="Vite" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" title="ASP.NET Core" />&nbsp;
+<img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Swagger.png" title="ASP.NET Core" />&nbsp;
 <img width="16" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Azure.png" title="Azure" />
 
 
@@ -28,8 +29,9 @@ Launch Visual Studio 2022, click "Create New Project", then choose the project t
 https://github.com/Aoa77/visual-studio-tutorials/assets/4643190/1de279ac-f49d-4a93-8dfd-c5ed20d29b78
 
 
+&nbsp;
 
-<br/><br/>
+
 ## `STEP 03`
 Once Visual Studio finishes creating the solution, verify that you have a new <b>`Tutorial_01.sln`</b> file with two projects listed in the Solution Explorer: 
 - <b>`tutorial_01.client`</b> - this is the frontend web application built with React, Typescript, and Vite.
