@@ -5,7 +5,8 @@
 
 * <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET-core.png" /> .NET-core
 * <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/.NET.png" /> .NET
-* <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/AArch64.png" /> AArch64
+* <img width="32" src="png-512/AArch64.png" /> AArch64
+* <img width="32" src="ng-512/AArch64.png" /> AArch64
 * <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Adobe-Commerce-(Magneto).png" /> Adobe-Commerce-(Magneto)
 * <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Adobe-Illustrator.png" /> Adobe-Illustrator
 * <img width="32" src="https://raw.githubusercontent.com/Aoa77/visual-studio-tutorials/main/devicon/png-512/Adobe-Photoshop.png" /> Adobe-Photoshop
